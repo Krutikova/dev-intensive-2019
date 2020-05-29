@@ -37,4 +37,24 @@ captures/
 google-services.json
 
 # Version control
+<<<<<<< HEAD
 vcs.xml
+||||||| 76d5e15
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
+=======
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
+>>>>>>> conflict
